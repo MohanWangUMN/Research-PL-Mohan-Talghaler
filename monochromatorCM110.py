@@ -29,8 +29,9 @@ original py file copy from smb://files.umn.edu/ece/Research/Talghaler/JTO/python
 
 import serial
 import string
-import gizmos
+#import gizmos
 import time
+
 
 
 class CM110():
@@ -60,11 +61,34 @@ class CM110():
             return int(convHex) # Still in Angstroms
 
 
+        #Reset monochromator
         def reset(self):
             for thisbyte in [0xff, 0xff, 0xff]:
                 self.ser.write(chr(thisbyte).encode(encoding="latin-1"))
             # No return message noted.
             print('\nMonochromator resetting.\n')
+
+
+        #Run calibration process for wavelength
+        def calibrate(self, wave):
+            lo = wave & 0x00ff
+            hi = (wave & 0xff00) >> 8
+            for thisbyte in [0x10, hi, lo]:
+                self.ser.write(chr(thisbyte).encode(encoding="latin-1"))
+            time.sleep(0.5)
+            first = self.ser.read(4).decode(encoding="latin-1")
+            
+
+        #def error_handle():
+        #Check connection with monochromator
+        def echo(self):
+            thisbyte = 0x1b
+            self.ser.write(chr(thisbyte).encode(encoding="latin-1"))
+            time.sleep(0.5)
+            if self.ser.read(4).decode(encoding="latin-1") == thisbyte :
+                return True
+            else: 
+                return False
 
 
 
