@@ -1,0 +1,99 @@
+Line 58: Class Threed.SSPanel of control pnlSetBaud was not a loaded control class.
+Line 72: Class Threed.SSFrame of control fraCom was not a loaded control class.
+Line 83: Class Threed.SSOption of control optCom was not a loaded control class.
+Line 106: Class Threed.SSOption of control optCom was not a loaded control class.
+Line 129: Class Threed.SSOption of control optCom was not a loaded control class.
+Line 152: Class Threed.SSOption of control optCom was not a loaded control class.
+Line 176: Class Threed.SSFrame of control fraBaud was not a loaded control class.
+Line 187: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 211: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 234: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 257: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 280: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 303: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 325: Class Threed.SSOption of control optBaud was not a loaded control class.
+Line 349: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 363: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 64: The property name _version in pnlSetBaud is invalid.
+Line 65: The property name _extentx in pnlSetBaud is invalid.
+Line 66: The property name _extenty in pnlSetBaud is invalid.
+Line 67: The property name _stockprops in pnlSetBaud is invalid.
+Line 69: The property name bevelwidth in pnlSetBaud is invalid.
+Line 70: The property name borderwidth in pnlSetBaud is invalid.
+Line 71: The property name alignment in pnlSetBaud is invalid.
+Line 78: The property name _version in fraCom is invalid.
+Line 79: The property name _extentx in fraCom is invalid.
+Line 80: The property name _extenty in fraCom is invalid.
+Line 81: The property name _stockprops in fraCom is invalid.
+Line 82: The property name caption in fraCom is invalid.
+Line 91: The property name _version in optCom is invalid.
+Line 92: The property name _extentx in optCom is invalid.
+Line 93: The property name _extenty in optCom is invalid.
+Line 94: The property name _stockprops in optCom is invalid.
+Line 95: The property name caption in optCom is invalid.
+Line 113: The property name _version in optCom is invalid.
+Line 114: The property name _extentx in optCom is invalid.
+Line 115: The property name _extenty in optCom is invalid.
+Line 116: The property name _stockprops in optCom is invalid.
+Line 117: The property name caption in optCom is invalid.
+Line 127: The property name value in optCom is invalid.
+Line 137: The property name _version in optCom is invalid.
+Line 138: The property name _extentx in optCom is invalid.
+Line 139: The property name _extenty in optCom is invalid.
+Line 140: The property name _stockprops in optCom is invalid.
+Line 141: The property name caption in optCom is invalid.
+Line 160: The property name _version in optCom is invalid.
+Line 161: The property name _extentx in optCom is invalid.
+Line 162: The property name _extenty in optCom is invalid.
+Line 163: The property name _stockprops in optCom is invalid.
+Line 164: The property name caption in optCom is invalid.
+Line 182: The property name _version in fraBaud is invalid.
+Line 183: The property name _extentx in fraBaud is invalid.
+Line 184: The property name _extenty in fraBaud is invalid.
+Line 185: The property name _stockprops in fraBaud is invalid.
+Line 186: The property name caption in fraBaud is invalid.
+Line 195: The property name _version in optBaud is invalid.
+Line 196: The property name _extentx in optBaud is invalid.
+Line 197: The property name _extenty in optBaud is invalid.
+Line 198: The property name _stockprops in optBaud is invalid.
+Line 199: The property name caption in optBaud is invalid.
+Line 219: The property name _version in optBaud is invalid.
+Line 220: The property name _extentx in optBaud is invalid.
+Line 221: The property name _extenty in optBaud is invalid.
+Line 222: The property name _stockprops in optBaud is invalid.
+Line 223: The property name caption in optBaud is invalid.
+Line 242: The property name _version in optBaud is invalid.
+Line 243: The property name _extentx in optBaud is invalid.
+Line 244: The property name _extenty in optBaud is invalid.
+Line 245: The property name _stockprops in optBaud is invalid.
+Line 246: The property name caption in optBaud is invalid.
+Line 265: The property name _version in optBaud is invalid.
+Line 266: The property name _extentx in optBaud is invalid.
+Line 267: The property name _extenty in optBaud is invalid.
+Line 268: The property name _stockprops in optBaud is invalid.
+Line 269: The property name caption in optBaud is invalid.
+Line 288: The property name _version in optBaud is invalid.
+Line 289: The property name _extentx in optBaud is invalid.
+Line 290: The property name _extenty in optBaud is invalid.
+Line 291: The property name _stockprops in optBaud is invalid.
+Line 292: The property name caption in optBaud is invalid.
+Line 310: The property name _version in optBaud is invalid.
+Line 311: The property name _extentx in optBaud is invalid.
+Line 312: The property name _extenty in optBaud is invalid.
+Line 313: The property name _stockprops in optBaud is invalid.
+Line 314: The property name caption in optBaud is invalid.
+Line 333: The property name _version in optBaud is invalid.
+Line 334: The property name _extentx in optBaud is invalid.
+Line 335: The property name _extenty in optBaud is invalid.
+Line 336: The property name _stockprops in optBaud is invalid.
+Line 337: The property name caption in optBaud is invalid.
+Line 356: The property name _version in cmdCanOK is invalid.
+Line 357: The property name _extentx in cmdCanOK is invalid.
+Line 358: The property name _extenty in cmdCanOK is invalid.
+Line 359: The property name _stockprops in cmdCanOK is invalid.
+Line 360: The property name caption in cmdCanOK is invalid.
+Line 370: The property name _version in cmdCanOK is invalid.
+Line 371: The property name _extentx in cmdCanOK is invalid.
+Line 372: The property name _extenty in cmdCanOK is invalid.
+Line 373: The property name _stockprops in cmdCanOK is invalid.
+Line 374: The property name caption in cmdCanOK is invalid.

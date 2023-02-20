@@ -1,0 +1,74 @@
+Line 30: Class Threed.SSPanel of control pnlSerial was not a loaded control class.
+Line 55: Class Threed.SSPanel of control pnlMainBG was not a loaded control class.
+Line 69: Class Threed.SSPanel of control pnlCMlabel was not a loaded control class.
+Line 109: Class Threed.SSPanel of control pnlBkGnd was not a loaded control class.
+Line 125: Class Threed.SSPanel of control pnlBkGnd was not a loaded control class.
+Line 140: Class Threed.SSPanel of control pnlGrtN was not a loaded control class.
+Line 242: Class Threed.SSPanel of control pnlWLength was not a loaded control class.
+Line 291: Class Threed.SSPanel of control pnlBlaze was not a loaded control class.
+Line 316: Class Threed.SSPanel of control pnlGroove was not a loaded control class.
+Line 36: The property name _version in pnlSerial is invalid.
+Line 37: The property name _extentx in pnlSerial is invalid.
+Line 38: The property name _extenty in pnlSerial is invalid.
+Line 39: The property name _stockprops in pnlSerial is invalid.
+Line 40: The property name caption in pnlSerial is invalid.
+Line 52: The property name bevelouter in pnlSerial is invalid.
+Line 53: The property name alignment in pnlSerial is invalid.
+Line 61: The property name _version in pnlMainBG is invalid.
+Line 62: The property name _extentx in pnlMainBG is invalid.
+Line 63: The property name _extenty in pnlMainBG is invalid.
+Line 64: The property name _stockprops in pnlMainBG is invalid.
+Line 66: The property name bevelwidth in pnlMainBG is invalid.
+Line 67: The property name borderwidth in pnlMainBG is invalid.
+Line 68: The property name alignment in pnlMainBG is invalid.
+Line 75: The property name _version in pnlCMlabel is invalid.
+Line 76: The property name _extentx in pnlCMlabel is invalid.
+Line 77: The property name _extenty in pnlCMlabel is invalid.
+Line 78: The property name _stockprops in pnlCMlabel is invalid.
+Line 79: The property name caption in pnlCMlabel is invalid.
+Line 91: The property name bevelouter in pnlCMlabel is invalid.
+Line 92: The property name font3d in pnlCMlabel is invalid.
+Line 93: The property name alignment in pnlCMlabel is invalid.
+Line 116: The property name _version in pnlBkGnd is invalid.
+Line 117: The property name _extentx in pnlBkGnd is invalid.
+Line 118: The property name _extenty in pnlBkGnd is invalid.
+Line 119: The property name _stockprops in pnlBkGnd is invalid.
+Line 121: The property name bevelwidth in pnlBkGnd is invalid.
+Line 122: The property name borderwidth in pnlBkGnd is invalid.
+Line 123: The property name alignment in pnlBkGnd is invalid.
+Line 132: The property name _version in pnlBkGnd is invalid.
+Line 133: The property name _extentx in pnlBkGnd is invalid.
+Line 134: The property name _extenty in pnlBkGnd is invalid.
+Line 135: The property name _stockprops in pnlBkGnd is invalid.
+Line 137: The property name bevelwidth in pnlBkGnd is invalid.
+Line 138: The property name borderwidth in pnlBkGnd is invalid.
+Line 139: The property name alignment in pnlBkGnd is invalid.
+Line 146: The property name _version in pnlGrtN is invalid.
+Line 147: The property name _extentx in pnlGrtN is invalid.
+Line 148: The property name _extenty in pnlGrtN is invalid.
+Line 149: The property name _stockprops in pnlGrtN is invalid.
+Line 150: The property name caption in pnlGrtN is invalid.
+Line 162: The property name bevelouter in pnlGrtN is invalid.
+Line 163: The property name alignment in pnlGrtN is invalid.
+Line 248: The property name _version in pnlWLength is invalid.
+Line 249: The property name _extentx in pnlWLength is invalid.
+Line 250: The property name _extenty in pnlWLength is invalid.
+Line 251: The property name _stockprops in pnlWLength is invalid.
+Line 252: The property name caption in pnlWLength is invalid.
+Line 264: The property name borderwidth in pnlWLength is invalid.
+Line 265: The property name bevelouter in pnlWLength is invalid.
+Line 266: The property name bevelinner in pnlWLength is invalid.
+Line 297: The property name _version in pnlBlaze is invalid.
+Line 298: The property name _extentx in pnlBlaze is invalid.
+Line 299: The property name _extenty in pnlBlaze is invalid.
+Line 300: The property name _stockprops in pnlBlaze is invalid.
+Line 301: The property name caption in pnlBlaze is invalid.
+Line 313: The property name bevelouter in pnlBlaze is invalid.
+Line 314: The property name alignment in pnlBlaze is invalid.
+Line 322: The property name _version in pnlGroove is invalid.
+Line 323: The property name _extentx in pnlGroove is invalid.
+Line 324: The property name _extenty in pnlGroove is invalid.
+Line 325: The property name _stockprops in pnlGroove is invalid.
+Line 326: The property name caption in pnlGroove is invalid.
+Line 338: The property name bevelouter in pnlGroove is invalid.
+Line 339: The property name alignment in pnlGroove is invalid.

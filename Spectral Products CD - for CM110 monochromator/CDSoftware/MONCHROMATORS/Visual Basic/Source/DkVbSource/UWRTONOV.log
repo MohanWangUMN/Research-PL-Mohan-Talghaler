@@ -1,0 +1,34 @@
+Line 30: Class Threed.SSPanel of control pnlWrToNov was not a loaded control class.
+Line 44: Class Threed.SSPanel of control pnlByte was not a loaded control class.
+Line 111: Class Threed.SSPanel of control pnlAddr was not a loaded control class.
+Line 151: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 165: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 36: The property name _version in pnlWrToNov is invalid.
+Line 37: The property name _extentx in pnlWrToNov is invalid.
+Line 38: The property name _extenty in pnlWrToNov is invalid.
+Line 39: The property name _stockprops in pnlWrToNov is invalid.
+Line 41: The property name bevelwidth in pnlWrToNov is invalid.
+Line 42: The property name borderwidth in pnlWrToNov is invalid.
+Line 43: The property name alignment in pnlWrToNov is invalid.
+Line 50: The property name _version in pnlByte is invalid.
+Line 51: The property name _extentx in pnlByte is invalid.
+Line 52: The property name _extenty in pnlByte is invalid.
+Line 53: The property name _stockprops in pnlByte is invalid.
+Line 55: The property name bevelouter in pnlByte is invalid.
+Line 56: The property name alignment in pnlByte is invalid.
+Line 117: The property name _version in pnlAddr is invalid.
+Line 118: The property name _extentx in pnlAddr is invalid.
+Line 119: The property name _extenty in pnlAddr is invalid.
+Line 120: The property name _stockprops in pnlAddr is invalid.
+Line 122: The property name bevelouter in pnlAddr is invalid.
+Line 123: The property name alignment in pnlAddr is invalid.
+Line 158: The property name _version in cmdCanOK is invalid.
+Line 159: The property name _extentx in cmdCanOK is invalid.
+Line 160: The property name _extenty in cmdCanOK is invalid.
+Line 161: The property name _stockprops in cmdCanOK is invalid.
+Line 162: The property name caption in cmdCanOK is invalid.
+Line 172: The property name _version in cmdCanOK is invalid.
+Line 173: The property name _extentx in cmdCanOK is invalid.
+Line 174: The property name _extenty in cmdCanOK is invalid.
+Line 175: The property name _stockprops in cmdCanOK is invalid.
+Line 176: The property name caption in cmdCanOK is invalid.

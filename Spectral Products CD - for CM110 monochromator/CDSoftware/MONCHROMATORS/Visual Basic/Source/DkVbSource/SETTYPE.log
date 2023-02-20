@@ -1,0 +1,45 @@
+Line 29: Class Threed.SSPanel of control pnlSetType was not a loaded control class.
+Line 43: Class Threed.SSFrame of control fraType was not a loaded control class.
+Line 54: Class Threed.SSOption of control optType was not a loaded control class.
+Line 77: Class Threed.SSOption of control optType was not a loaded control class.
+Line 100: Class Threed.SSOption of control optType was not a loaded control class.
+Line 124: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 138: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 35: The property name _version in pnlSetType is invalid.
+Line 36: The property name _extentx in pnlSetType is invalid.
+Line 37: The property name _extenty in pnlSetType is invalid.
+Line 38: The property name _stockprops in pnlSetType is invalid.
+Line 40: The property name bevelwidth in pnlSetType is invalid.
+Line 41: The property name borderwidth in pnlSetType is invalid.
+Line 42: The property name alignment in pnlSetType is invalid.
+Line 49: The property name _version in fraType is invalid.
+Line 50: The property name _extentx in fraType is invalid.
+Line 51: The property name _extenty in fraType is invalid.
+Line 52: The property name _stockprops in fraType is invalid.
+Line 53: The property name caption in fraType is invalid.
+Line 62: The property name _version in optType is invalid.
+Line 63: The property name _extentx in optType is invalid.
+Line 64: The property name _extenty in optType is invalid.
+Line 65: The property name _stockprops in optType is invalid.
+Line 66: The property name caption in optType is invalid.
+Line 84: The property name _version in optType is invalid.
+Line 85: The property name _extentx in optType is invalid.
+Line 86: The property name _extenty in optType is invalid.
+Line 87: The property name _stockprops in optType is invalid.
+Line 88: The property name caption in optType is invalid.
+Line 98: The property name value in optType is invalid.
+Line 108: The property name _version in optType is invalid.
+Line 109: The property name _extentx in optType is invalid.
+Line 110: The property name _extenty in optType is invalid.
+Line 111: The property name _stockprops in optType is invalid.
+Line 112: The property name caption in optType is invalid.
+Line 131: The property name _version in cmdCanOK is invalid.
+Line 132: The property name _extentx in cmdCanOK is invalid.
+Line 133: The property name _extenty in cmdCanOK is invalid.
+Line 134: The property name _stockprops in cmdCanOK is invalid.
+Line 135: The property name caption in cmdCanOK is invalid.
+Line 145: The property name _version in cmdCanOK is invalid.
+Line 146: The property name _extentx in cmdCanOK is invalid.
+Line 147: The property name _extenty in cmdCanOK is invalid.
+Line 148: The property name _stockprops in cmdCanOK is invalid.
+Line 149: The property name caption in cmdCanOK is invalid.

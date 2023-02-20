@@ -1,0 +1,79 @@
+Line 29: Class Threed.SSPanel of control pnlSetSlits was not a loaded control class.
+Line 43: Class Threed.SSPanel of control pnlSW was not a loaded control class.
+Line 107: Class Threed.SSFrame of control fraSlits was not a loaded control class.
+Line 118: Class Threed.SSOption of control optSltAdj was not a loaded control class.
+Line 141: Class Threed.SSOption of control optSltAdj was not a loaded control class.
+Line 164: Class Threed.SSOption of control optSltAdj was not a loaded control class.
+Line 187: Class Threed.SSOption of control optSltAdj was not a loaded control class.
+Line 211: Class Threed.SSPanel of control pnlSW was not a loaded control class.
+Line 274: Class Threed.SSPanel of control pnlSW was not a loaded control class.
+Line 337: Class Threed.SSPanel of control pnlSW was not a loaded control class.
+Line 400: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 414: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 35: The property name _version in pnlSetSlits is invalid.
+Line 36: The property name _extentx in pnlSetSlits is invalid.
+Line 37: The property name _extenty in pnlSetSlits is invalid.
+Line 38: The property name _stockprops in pnlSetSlits is invalid.
+Line 40: The property name bevelwidth in pnlSetSlits is invalid.
+Line 41: The property name borderwidth in pnlSetSlits is invalid.
+Line 42: The property name alignment in pnlSetSlits is invalid.
+Line 50: The property name _version in pnlSW is invalid.
+Line 51: The property name _extentx in pnlSW is invalid.
+Line 52: The property name _extenty in pnlSW is invalid.
+Line 53: The property name _stockprops in pnlSW is invalid.
+Line 55: The property name bevelouter in pnlSW is invalid.
+Line 56: The property name alignment in pnlSW is invalid.
+Line 113: The property name _version in fraSlits is invalid.
+Line 114: The property name _extentx in fraSlits is invalid.
+Line 115: The property name _extenty in fraSlits is invalid.
+Line 116: The property name _stockprops in fraSlits is invalid.
+Line 117: The property name caption in fraSlits is invalid.
+Line 126: The property name _version in optSltAdj is invalid.
+Line 127: The property name _extentx in optSltAdj is invalid.
+Line 128: The property name _extenty in optSltAdj is invalid.
+Line 129: The property name _stockprops in optSltAdj is invalid.
+Line 130: The property name caption in optSltAdj is invalid.
+Line 149: The property name _version in optSltAdj is invalid.
+Line 150: The property name _extentx in optSltAdj is invalid.
+Line 151: The property name _extenty in optSltAdj is invalid.
+Line 152: The property name _stockprops in optSltAdj is invalid.
+Line 153: The property name caption in optSltAdj is invalid.
+Line 171: The property name _version in optSltAdj is invalid.
+Line 172: The property name _extentx in optSltAdj is invalid.
+Line 173: The property name _extenty in optSltAdj is invalid.
+Line 174: The property name _stockprops in optSltAdj is invalid.
+Line 175: The property name caption in optSltAdj is invalid.
+Line 185: The property name value in optSltAdj is invalid.
+Line 195: The property name _version in optSltAdj is invalid.
+Line 196: The property name _extentx in optSltAdj is invalid.
+Line 197: The property name _extenty in optSltAdj is invalid.
+Line 198: The property name _stockprops in optSltAdj is invalid.
+Line 199: The property name caption in optSltAdj is invalid.
+Line 218: The property name _version in pnlSW is invalid.
+Line 219: The property name _extentx in pnlSW is invalid.
+Line 220: The property name _extenty in pnlSW is invalid.
+Line 221: The property name _stockprops in pnlSW is invalid.
+Line 223: The property name bevelouter in pnlSW is invalid.
+Line 224: The property name alignment in pnlSW is invalid.
+Line 281: The property name _version in pnlSW is invalid.
+Line 282: The property name _extentx in pnlSW is invalid.
+Line 283: The property name _extenty in pnlSW is invalid.
+Line 284: The property name _stockprops in pnlSW is invalid.
+Line 286: The property name bevelouter in pnlSW is invalid.
+Line 287: The property name alignment in pnlSW is invalid.
+Line 344: The property name _version in pnlSW is invalid.
+Line 345: The property name _extentx in pnlSW is invalid.
+Line 346: The property name _extenty in pnlSW is invalid.
+Line 347: The property name _stockprops in pnlSW is invalid.
+Line 349: The property name bevelouter in pnlSW is invalid.
+Line 350: The property name alignment in pnlSW is invalid.
+Line 407: The property name _version in cmdCanOK is invalid.
+Line 408: The property name _extentx in cmdCanOK is invalid.
+Line 409: The property name _extenty in cmdCanOK is invalid.
+Line 410: The property name _stockprops in cmdCanOK is invalid.
+Line 411: The property name caption in cmdCanOK is invalid.
+Line 421: The property name _version in cmdCanOK is invalid.
+Line 422: The property name _extentx in cmdCanOK is invalid.
+Line 423: The property name _extenty in cmdCanOK is invalid.
+Line 424: The property name _stockprops in cmdCanOK is invalid.
+Line 425: The property name caption in cmdCanOK is invalid.

@@ -1,0 +1,34 @@
+Line 29: Class Threed.SSPanel of control pnlCmCal was not a loaded control class.
+Line 43: Class Threed.SSPanel of control pnlDesiredWave was not a loaded control class.
+Line 101: Class Threed.SSPanel of control pnlOldWave was not a loaded control class.
+Line 159: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 173: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 35: The property name _version in pnlCmCal is invalid.
+Line 36: The property name _extentx in pnlCmCal is invalid.
+Line 37: The property name _extenty in pnlCmCal is invalid.
+Line 38: The property name _stockprops in pnlCmCal is invalid.
+Line 40: The property name bevelwidth in pnlCmCal is invalid.
+Line 41: The property name borderwidth in pnlCmCal is invalid.
+Line 42: The property name alignment in pnlCmCal is invalid.
+Line 49: The property name _version in pnlDesiredWave is invalid.
+Line 50: The property name _extentx in pnlDesiredWave is invalid.
+Line 51: The property name _extenty in pnlDesiredWave is invalid.
+Line 52: The property name _stockprops in pnlDesiredWave is invalid.
+Line 54: The property name bevelouter in pnlDesiredWave is invalid.
+Line 55: The property name alignment in pnlDesiredWave is invalid.
+Line 107: The property name _version in pnlOldWave is invalid.
+Line 108: The property name _extentx in pnlOldWave is invalid.
+Line 109: The property name _extenty in pnlOldWave is invalid.
+Line 110: The property name _stockprops in pnlOldWave is invalid.
+Line 112: The property name bevelouter in pnlOldWave is invalid.
+Line 113: The property name alignment in pnlOldWave is invalid.
+Line 166: The property name _version in cmdCanOK is invalid.
+Line 167: The property name _extentx in cmdCanOK is invalid.
+Line 168: The property name _extenty in cmdCanOK is invalid.
+Line 169: The property name _stockprops in cmdCanOK is invalid.
+Line 170: The property name caption in cmdCanOK is invalid.
+Line 180: The property name _version in cmdCanOK is invalid.
+Line 181: The property name _extentx in cmdCanOK is invalid.
+Line 182: The property name _extenty in cmdCanOK is invalid.
+Line 183: The property name _stockprops in cmdCanOK is invalid.
+Line 184: The property name caption in cmdCanOK is invalid.

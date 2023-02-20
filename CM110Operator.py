@@ -5,7 +5,9 @@ import time
 
 if __name__ == "__main__":
     CM = CM110()
-    if()
+    if CM.echo() is not True:
+        print("fail to connect with CM110.\n")
+        exit()
     CM.reset()
     while 1:
         print('1. calibration\n2. setwavelength\n3. reset CM110\n4. check connection from CM110\n')

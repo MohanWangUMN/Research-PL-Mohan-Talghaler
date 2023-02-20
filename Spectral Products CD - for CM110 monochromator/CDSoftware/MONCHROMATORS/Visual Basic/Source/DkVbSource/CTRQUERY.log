@@ -1,0 +1,41 @@
+Line 30: Class Threed.SSPanel of control pnlCtrQuery was not a loaded control class.
+Line 44: Class Threed.SSPanel of control pnlQuery was not a loaded control class.
+Line 68: Class Threed.SSPanel of control pnlQuery was not a loaded control class.
+Line 126: Class Threed.SSPanel of control pnlQuery was not a loaded control class.
+Line 183: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 197: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 36: The property name _version in pnlCtrQuery is invalid.
+Line 37: The property name _extentx in pnlCtrQuery is invalid.
+Line 38: The property name _extenty in pnlCtrQuery is invalid.
+Line 39: The property name _stockprops in pnlCtrQuery is invalid.
+Line 41: The property name bevelwidth in pnlCtrQuery is invalid.
+Line 42: The property name borderwidth in pnlCtrQuery is invalid.
+Line 43: The property name alignment in pnlCtrQuery is invalid.
+Line 51: The property name _version in pnlQuery is invalid.
+Line 52: The property name _extentx in pnlQuery is invalid.
+Line 53: The property name _extenty in pnlQuery is invalid.
+Line 54: The property name _stockprops in pnlQuery is invalid.
+Line 56: The property name bevelouter in pnlQuery is invalid.
+Line 57: The property name alignment in pnlQuery is invalid.
+Line 75: The property name _version in pnlQuery is invalid.
+Line 76: The property name _extentx in pnlQuery is invalid.
+Line 77: The property name _extenty in pnlQuery is invalid.
+Line 78: The property name _stockprops in pnlQuery is invalid.
+Line 80: The property name bevelouter in pnlQuery is invalid.
+Line 81: The property name alignment in pnlQuery is invalid.
+Line 133: The property name _version in pnlQuery is invalid.
+Line 134: The property name _extentx in pnlQuery is invalid.
+Line 135: The property name _extenty in pnlQuery is invalid.
+Line 136: The property name _stockprops in pnlQuery is invalid.
+Line 138: The property name bevelouter in pnlQuery is invalid.
+Line 139: The property name alignment in pnlQuery is invalid.
+Line 190: The property name _version in cmdCanOK is invalid.
+Line 191: The property name _extentx in cmdCanOK is invalid.
+Line 192: The property name _extenty in cmdCanOK is invalid.
+Line 193: The property name _stockprops in cmdCanOK is invalid.
+Line 194: The property name caption in cmdCanOK is invalid.
+Line 204: The property name _version in cmdCanOK is invalid.
+Line 205: The property name _extentx in cmdCanOK is invalid.
+Line 206: The property name _extenty in cmdCanOK is invalid.
+Line 207: The property name _stockprops in cmdCanOK is invalid.
+Line 208: The property name caption in cmdCanOK is invalid.

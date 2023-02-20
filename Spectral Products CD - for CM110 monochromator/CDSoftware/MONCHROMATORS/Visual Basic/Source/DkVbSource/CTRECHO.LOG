@@ -1,0 +1,27 @@
+Line 30: Class Threed.SSPanel of control pnlCtrEcho was not a loaded control class.
+Line 44: Class Threed.SSPanel of control pnlEcho was not a loaded control class.
+Line 90: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 104: Class Threed.SSCommand of control cmdCanOK was not a loaded control class.
+Line 36: The property name _version in pnlCtrEcho is invalid.
+Line 37: The property name _extentx in pnlCtrEcho is invalid.
+Line 38: The property name _extenty in pnlCtrEcho is invalid.
+Line 39: The property name _stockprops in pnlCtrEcho is invalid.
+Line 41: The property name bevelwidth in pnlCtrEcho is invalid.
+Line 42: The property name borderwidth in pnlCtrEcho is invalid.
+Line 43: The property name alignment in pnlCtrEcho is invalid.
+Line 50: The property name _version in pnlEcho is invalid.
+Line 51: The property name _extentx in pnlEcho is invalid.
+Line 52: The property name _extenty in pnlEcho is invalid.
+Line 53: The property name _stockprops in pnlEcho is invalid.
+Line 55: The property name bevelouter in pnlEcho is invalid.
+Line 56: The property name alignment in pnlEcho is invalid.
+Line 97: The property name _version in cmdCanOK is invalid.
+Line 98: The property name _extentx in cmdCanOK is invalid.
+Line 99: The property name _extenty in cmdCanOK is invalid.
+Line 100: The property name _stockprops in cmdCanOK is invalid.
+Line 101: The property name caption in cmdCanOK is invalid.
+Line 111: The property name _version in cmdCanOK is invalid.
+Line 112: The property name _extentx in cmdCanOK is invalid.
+Line 113: The property name _extenty in cmdCanOK is invalid.
+Line 114: The property name _stockprops in cmdCanOK is invalid.
+Line 115: The property name caption in cmdCanOK is invalid.
