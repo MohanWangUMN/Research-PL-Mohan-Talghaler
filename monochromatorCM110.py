@@ -40,7 +40,7 @@ class CM110():
             self.commport = comPort
             # self.ser = serial.Serial(self.commport, timeout=1)
             self.ser = serial.Serial(self.commport, baudrate=9600, bytesize=8, parity='N', stopbits=1, xonxoff=0, rtscts=1, timeout=1, write_timeout=1)
-            self.giz = gizmos.Gizmos()
+ #           self.giz = gizmos.Gizmos()
 
 
         # Set the wavelength in angstroms
